@@ -27,21 +27,9 @@ Kshitiz Sareen (SFSU ID: 922230410)
 
 ## Wireframes
 
-<img width="434" alt="1" src="https://github.com/KshitizSareen
-/CSC780
-/blob/main/Wireframes/1.jpg?raw=true">
-<img width="434" alt="2" src="https://github.com/KshitizSareen
-/CSC780
-/blob/main/Wireframes/2.jpg?raw=true">
-<img width="434" alt="3" src="https://github.com/KshitizSareen
-/CSC780
-/blob/main/Wireframes/3.jpg?raw=true">
-<img width="434" alt="4" src="https://github.com/KshitizSareen
-/CSC780
-/blob/main/Wireframes/4.jpg?raw=true">
-<img width="434" alt="5" src="https://github.com/KshitizSareen
-/CSC780
-/blob/main/Wireframes/5.jpg?raw=true">
-<img width="434" alt="6" src="https://github.com/KshitizSareen
-/CSC780
-/blob/main/Wireframes/6.jpg?raw=true">
+<img width="434" alt="1" src="https://github.com/KshitizSareen/CSC780/blob/main/Wireframes/1.png?raw=true">
+<img width="434" alt="2" src="https://github.com/KshitizSareen/CSC780/blob/main/Wireframes/2.png?raw=true">
+<img width="434" alt="3" src="https://github.com/KshitizSareen/CSC780/blob/main/Wireframes/3.png?raw=true">
+<img width="434" alt="4" src="https://github.com/KshitizSareen/CSC780/blob/main/Wireframes/4.png?raw=true">
+<img width="434" alt="5" src="https://github.com/KshitizSareen/CSC780/blob/main/Wireframes/5.png?raw=true">
+<img width="434" alt="6" src="https://github.com/KshitizSareen/CSC780/blob/main/Wireframes/6.png?raw=true">
